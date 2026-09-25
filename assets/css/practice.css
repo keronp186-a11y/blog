@@ -1,0 +1,24 @@
+.sidebar-my-image{
+	height: 200px;
+	width: 200px;
+}
+
+.sidebar-my-name{
+	text-align: center;
+}
+
+.sidebar-about-me{
+	text-align: center;
+	padding: 20px;
+	background-color: whitesmoke;
+	color: mediumpurple;
+}
+
+.sidebar-social-icon{
+background-color: dimgrey;
+color:rebeccapurple;
+}
+
+.sidebar-social-media{
+background-color: grey;
+}
